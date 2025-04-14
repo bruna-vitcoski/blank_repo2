@@ -1,2 +1,7 @@
-Olá Git, prazer me chamo Bruna e sou aluna do ADS!
+Este é um arquivo teste
+Nova Linha adicionada
+
+Alteração feita diretamento no github:
+-data: 2025-04-14
+-autor: bruna-vitcoski
 
